@@ -1,1 +1,16 @@
-{"name":"English Phrases","short_name":"EnglishApp","description":"App para aprender inglês com frases e áudio","start_url":"/englishapp","display":"standalone","background_color":"#ffffff","theme_color":"#1976D2","lang":"en","scope":"/englishapp","icons":[{"src":"/img/192.png","sizes":"192x192","type":"image/png"},{"src":"/img/512.png","sizes":"512x512","type":"image/png"},{"src":"/img/512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "English Phrases",
+  "short_name": "EnglishApp",
+  "description": "App para aprender inglês com frases e áudio",
+  "lang": "en",
+  "start_url": "/englishapp/",
+  "scope": "/englishapp/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976D2",
+  "icons": [
+    {"src": "/englishapp/img/192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "/englishapp/img/512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "/englishapp/img/512.png", "sizes": "512x512", "purpose": "any maskable"}
+  ]
+}
